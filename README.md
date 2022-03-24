@@ -18,4 +18,4 @@
     - a creative and expressive individual.
     - a team player.
 
-📫 To Contact Me:  [Email](danielnavarro8797@gmail.com)
+📫 To Contact Me: danielnavarro8797@gmail.com
