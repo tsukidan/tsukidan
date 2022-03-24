@@ -1,5 +1,5 @@
-# Daniel Navarro - 24 Years old
-### Pronouns: (He/They),  🇲🇽 🇺🇸
+# Daniel Navarro - Junior CS Developer
+### Pronouns: (He/Him),  🇲🇽 🇺🇸, 24
  
 ## - ⚡  Some of my projects include...
     - European Vacation Planner - C++ Desktop Program
