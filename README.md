@@ -1,4 +1,4 @@
-# Daniel Navarro - Junior CS Developer
+# Daniel Navarro - Software Engineer & Full Stack Web Developer
 ### Pronouns: (He/Him),  🇲🇽 🇺🇸, 24
  
 📫 To Contact Me: danielnavarro8797@gmail.com
