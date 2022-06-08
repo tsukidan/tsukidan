@@ -2,7 +2,7 @@
 ### Pronouns: (He/Him),  🇲🇽 🇺🇸, 24
  
 📫 To Contact Me: danielnavarro8797@gmail.com
-## - ⚡  Some of my projects include...
+## - 💻  Some of my projects include...
     - European Vacation Planner - C++ Desktop Program
     - Store Administrator Program - C++ Desktop Program
     - Orbit Theme - CSS Theme for Discord and Spotify
