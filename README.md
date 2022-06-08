@@ -1,5 +1,7 @@
-# Daniel Navarro - Software Engineer & Full Stack Web Developer
-### Pronouns: (He/Him),  🇲🇽 🇺🇸, 24
+# 👨‍💻 Daniel Navarro 
+
+- Software Engineer & Full Stack Web Developer
+- Pronouns: (He/Him)
  
 📫 To Contact Me: danielnavarro8797@gmail.com
 ## - 💻  Some of my projects include...
