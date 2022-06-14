@@ -7,7 +7,7 @@
 ## - 💻  Some of my projects include...
     - European Vacation Planner - C++ Desktop Program
     - Store Administrator Program - C++ Desktop Program
-    - Orbit Theme - CSS Theme for Discord and Spotify
+    - Maki Theme - CSS Theme for Discord (Spotify coming soon.)
 
 ## - 💬 I’m currently working on... 
      - Sales Tax Calculator - Mobile App using Flutter.
