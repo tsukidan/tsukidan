@@ -1,25 +1,25 @@
-# 👨‍💻 Daniel Navarro 
+# 👨‍💻 Daniel Navarro, 25
 
-- Software Engineer & Full Stack Web Developer
-- Pronouns: (He/Him)
+- Software Engineer & Full Stack Web Development Student.
+- Pronouns: (He/Him/They)
  
-📫 To Contact Me: danielnavarro8797@gmail.com
+📫 To Contact Me: [**Email**](mailto:danielnavarro8797@gmail.com)
 ## - 💻  Some of my projects include...
-    - European Vacation Planner - C++ Desktop Program
-    - Store Administrator Program - C++ Desktop Program
-    - Maki Theme - CSS Theme for Discord (Spotify coming soon.)
+    - European Vacation Planner - C++ Desktop Program.
+    - Store Administrator Program - C++ Desktop Program.
+    - Maki Theme - CSS Theme for Discord.
+    - Portfolio - Website Programming Portfolio.
 
 ## - 💬 I’m currently working on... 
-     - Sales Tax Calculator - Mobile App using Flutter.
-     - learning how to make websites using HTML, CSS and Javascript.
-     - Learning data strucutres with C++.
-
+     - learning how to create websites with front and back end.
+     - Learning full stack web development at Arizona State University.
+     - Sales Tax Calculator - C++ Program porting to web development.
+     
 ## -📚 I am...
-
     - a student, studying computer science.
-    - passionate and willing to learn new things.
-    - a creative and expressive individual.
-    - a team player.
+    - a leader, team player, and love to work with others.
+    - passionate for my craft and willing to learn new things.
+    - a creative and expressive individual confident in bringing my ideas to the discussion.
 
 ## Languages & Tools
 
