@@ -1,7 +1,6 @@
 # 👨‍💻 Daniel Navarro, 25
 
-- Software Engineer & Full Stack Web Development Student.
-- Pronouns: (He/Him/They)
+- Full Stack Web Development & Software Engineer Student.
  
 📫 To Contact Me: [**Email**](mailto:danielnavarro8797@gmail.com)
 ## - 💻  Some of my projects include...
