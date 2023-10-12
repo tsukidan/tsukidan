@@ -1,4 +1,4 @@
-# 👨‍💻 Daniel Navarro, 25
+# 👨‍💻 Daniel Navarro, 26
 
 - Full Stack Web Development & Software Engineer Student.
  
