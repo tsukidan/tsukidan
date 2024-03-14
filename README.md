@@ -3,7 +3,7 @@
 - Full Stack Web Development & Software Engineer Student at Arizona State University.
  
 📫 To Contact Me: [**Email**](mailto:danielnavarro8797@gmail.com)
-## - 💻  Some of my projects include...
+## - 💻  Hall of Fame
     - European Vacation Planner - C++ Desktop Program.
     - Store Administrator Program - C++ Desktop Program.
     - Maki Theme - CSS Theme for Discord.
