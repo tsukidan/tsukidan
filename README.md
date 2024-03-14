@@ -1,6 +1,6 @@
 # 👨‍💻 Daniel Navarro, 26
 
-- Full Stack Web Development & Software Engineer Student.
+- Full Stack Web Development & Software Engineer Student at Arizona State University.
  
 📫 To Contact Me: [**Email**](mailto:danielnavarro8797@gmail.com)
 ## - 💻  Some of my projects include...
@@ -10,13 +10,13 @@
     - Portfolio - Website Programming Portfolio.
 
 ## - 💬 I’m currently working on... 
-     - learning how to create websites with front and back end.
+     - learning how to create websites with HTML, CSS and JavaScript.
      - Learning full stack web development at Arizona State University.
-     - Sales Tax Calculator - C++ Program porting to web development.
+     - Github Portfolio showcaseing skillsets learned.
      
 ## -📚 I am...
-    - a student, studying computer science.
-    - a leader, team player, and love to work with others.
+    - a student, studying computer science, information technology and media.
+    - a leader, team player, and I love to work with others.
     - passionate for my craft and willing to learn new things.
     - a creative and expressive individual confident in bringing my ideas to the discussion.
 
