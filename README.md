@@ -1,6 +1,6 @@
 # 👨‍💻 Daniel Navarro, 26
 
-- Full Stack Development & Software Engineer Student at Arizona State University.
+- Full Stack Developer & Software Engineer Student at Arizona State University.
  
 📫 To Contact Me: [**Email**](mailto:danielnavarro8797@gmail.com)
 ## - 💻  Hall of Fame
