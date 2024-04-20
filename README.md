@@ -2,7 +2,9 @@
 
 - Full Stack Developer & Software Engineer Student at Arizona State University.
  
-📫 To Contact Me: [**Email**](mailto:danielnavarro8797@gmail.com)
+## Socials:
+<a href="https://twitter.com/tsukidan_"><img alt="Twitter" src="https://img.shields.io/badge/tsukidan_-A8C1E9?style=for-the-badge&logo=twitter&logoColor=white"></a>
+
 ## - 💻  Hall of Fame
     - European Vacation Planner - C++ Desktop Program.
     - Store Administrator Program - C++ Desktop Program.
