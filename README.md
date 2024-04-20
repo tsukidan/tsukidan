@@ -1,4 +1,4 @@
-<img alt="Name" src="https://img.shields.io/badge/Daniel%20Navarro,%2026-A8C1E9?style=for-the-badge">
+<img alt="Name" src="https://img.shields.io/badge/Daniel%20Navarro-A8C1E9?style=for-the-badge">
 <img alt="Name" src="https://img.shields.io/badge/Full Stack Developer & Software Engineer Student at Arizona State University.-FFFFFF?style=for-the-badge">
  
 <a href="https://www.linkedin.com/in/angel-navarro-0b3b6a214/"> <img alt="LinkedIn" src="https://img.shields.io/badge/Daniel Navarro-A8C1E9?style=for-the-badge&logo=linkedin&logoColor=white"></a>
