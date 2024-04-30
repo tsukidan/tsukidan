@@ -11,6 +11,7 @@
     - Portfolio - Website Programming Portfolio.
 
 ## 💬 I’m currently working on... 
+     - tsuki: a discord css theme.
      - learning how to create websites with HTML, CSS and JavaScript.
      - Learning full stack web development at Arizona State University.
      - Github Portfolio showcaseing skillsets learned.
