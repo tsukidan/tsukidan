@@ -12,7 +12,7 @@
 
 ## 💬 I’m currently working on... 
      - tsuki: a discord css theme.
-     - learning how to create websites with HTML, CSS and JavaScript.
+     - simplitax: a fun simple sales tax calculator with a custom generated user receipt.
      - Learning full stack web development at Arizona State University.
      - Github Portfolio showcaseing skillsets learned.
      - Learning React Native, compiling mobile applications.
