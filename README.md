@@ -9,10 +9,11 @@
     - European Vacation Planner - C++ Desktop Program.
     - Store Administrator Program - C++ Desktop Program.
     - Portfolio - Website Programming Portfolio.
+    - simplitax: a fun simple sales tax calculator with a custom generated user receipt.
 
 ## 💬 I’m currently working on... 
      - tsuki: a discord css theme.
-     - simplitax: a fun simple sales tax calculator with a custom generated user receipt.
+     - stocksync: A sleek and straightforward C++ store inventory program.
      - Learning full stack web development at Arizona State University.
      - Github Portfolio showcaseing skillsets learned.
      - Learning React Native, compiling mobile applications.
