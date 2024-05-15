@@ -12,10 +12,11 @@
     - simplitax: a fun simple sales tax calculator with a custom generated user receipt.
 
 ## 💬 I’m currently working on... 
+### Projects
      - tsuki: a discord css theme.
      - stocksync: A sleek and straightforward C++ store inventory program.
+### School
      - Learning full stack web development at Arizona State University.
-     - Github Portfolio showcaseing skillsets learned.
      - Learning React Native, compiling mobile applications.
  
 ## 📚 I am...
